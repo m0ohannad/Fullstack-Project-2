@@ -1,0 +1,93 @@
+body {
+    background: #E5E5E5;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    margin: 0 20%;
+}
+a {
+    color: black;
+}
+
+.logo {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+}
+
+.login {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    width: 124px;
+    height: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 21px 40px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+}
+.submit {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    width: 124px;
+    height: 50px;
+    box-shadow: 0px 21px 40px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+}
+
+.width {
+    min-width: 22vw;
+    z-index: -1;
+}
+
+.vs {
+    font-family: Rawk Brush;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64.8px;
+    line-height: 104px;
+    text-transform: uppercase;
+    color: #A3A2A2;
+}
+
+.loginForm {
+    background-color: #fff;
+    margin: 0 auto;
+    width: 552px;
+}
+
+.team {
+    cursor: pointer;
+}
+
+.card {
+    border-radius: 14px;
+}
+
+.number {
+    font-family: Rawk Brush;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29.9077px;
+    line-height: 48px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 48%;
+    left: 30%;
+    color: #000000;
+}

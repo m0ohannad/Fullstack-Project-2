@@ -1,0 +1,59 @@
+{
+    "players": [
+        {
+            "name": "Mohammed  Salah",
+            "img": "./assets/img/player/11.svg",
+            "number": "11"
+        },
+        {
+            "name": "Virgil van Dijk",
+            "img": "./assets/img/player/4.svg",
+            "number": "4"
+        },
+        {
+            "name": "Roberto Firmino",
+            "img": "./assets/img/player/9.svg",
+            "number": "9"
+        },
+        {
+            "name": "Alex Oxlade Chamberlain",
+            "img": "./assets/img/player/21.svg",
+            "number": "21"
+        },
+        {
+            "name": "Roberto Firmino",
+            "img": "./assets/img/player/9.svg",
+            "number": "9"
+        },
+        {
+            "name": "Alex Oxlade Chamberlain",
+            "img": "./assets/img/player/21.svg",
+            "number": "21"
+        },
+        {
+            "name": "Virgil van Dijk",
+            "img": "./assets/img/player/4.svg",
+            "number": "4"
+        },
+        {
+            "name": "Mohammed  Salah",
+            "img": "./assets/img/player/11.svg",
+            "number": "11"
+        },
+        {
+            "name": "Mohammed  Salah",
+            "img": "./assets/img/player/11.svg",
+            "number": "11"
+        },
+        {
+            "name": "Virgil van Dijk",
+            "img": "./assets/img/player/4.svg",
+            "number": "4"
+        },
+        {
+            "name": "Roberto Firmino",
+            "img": "./assets/img/player/9.svg",
+            "number": "9"
+        }
+    ]
+}

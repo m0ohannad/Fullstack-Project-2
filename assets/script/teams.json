@@ -1,0 +1,64 @@
+{
+    "versus": [
+        {
+            "t1": {
+                "name": "Liverpool",
+                "img": "./assets/img//teams/liverpool.svg"
+            },
+            "t2": {
+                "name": "Man City",
+                "img": "./assets/img//teams/man-city.svg"
+            }
+        },
+        {
+            "t1": {
+                "name": "Man United",
+                "img": "./assets/img//teams/man-united.svg"
+            },
+            "t2": {
+                "name": "Chelsea",
+                "img": "./assets/img//teams/chelsea.svg"
+            }
+        },
+        {
+            "t1": {
+                "name": "Everton",
+                "img": "./assets/img//teams/everton.svg"
+            },
+            "t2": {
+                "name": "Arsenal",
+                "img": "./assets/img//teams/arsenal.svg"
+            }
+        },
+        {
+            "t1": {
+                "name": "Man City",
+                "img": "./assets/img//teams/man-city.svg"
+            },
+            "t2": {
+                "name": "Chelsea",
+                "img": "./assets/img//teams/chelsea.svg"
+            }
+        },
+        {
+            "t1": {
+                "name": "Arsenal",
+                "img": "./assets/img//teams/arsenal.svg"
+            },
+            "t2": {
+                "name": "Liverpool",
+                "img": "./assets/img//teams/liverpool.svg"
+            }
+        },
+        {
+            "t1": {
+                "name": "Everton",
+                "img": "./assets/img//teams/everton.svg"
+            },
+            "t2": {
+                "name": "Man United",
+                "img": "./assets/img//teams/man-united.svg"
+            }
+        }
+    ]
+}
